@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Manasik Tech LTD.</title>
+    <link>https://test.com/en/categories/</link>
+    <description>Recent content in Categories on Manasik Tech LTD.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Sep 2022 13:50:46 +0200</lastBuildDate>
+    <atom:link href="https://test.com/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Freezer</title>
+      <link>https://test.com/en/categories/freezer/</link>
+      <pubDate>Sat, 24 Sep 2022 13:50:46 +0200</pubDate>
+      <guid>https://test.com/en/categories/freezer/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
