@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Manasik</title>
-    <link>http://localhost:1313/en/tags/</link>
+    <link>https://test.manasik-sa.com/en/tags/</link>
     <description>Recent content in Tags on Manasik</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 24 Sep 2022 13:50:46 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://test.manasik-sa.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Freezer</title>
-      <link>http://localhost:1313/en/tags/freezer/</link>
+      <link>https://test.manasik-sa.com/en/tags/freezer/</link>
       <pubDate>Sat, 24 Sep 2022 13:50:46 +0200</pubDate>
-      <guid>http://localhost:1313/en/tags/freezer/</guid>
+      <guid>https://test.manasik-sa.com/en/tags/freezer/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,311 +2,311 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://test.manasik-sa.com/en/categories/</loc>
     <lastmod>2022-09-24T13:50:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/categories/"
+                href="https://test.manasik-sa.com/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://test.manasik-sa.com/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/2022/09/24/b-7/</loc>
+    <loc>https://test.manasik-sa.com/en/blog/2022/09/24/b-7/</loc>
     <lastmod>2022-09-24T13:50:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/blog/2015/10/02/b-7/"
+                href="https://test.manasik-sa.com/ar/blog/2015/10/02/b-7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/blog/2022/09/24/b-7/"
+                href="https://test.manasik-sa.com/en/blog/2022/09/24/b-7/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/freezer/</loc>
+    <loc>https://test.manasik-sa.com/en/tags/freezer/</loc>
     <lastmod>2022-09-24T13:50:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/en/categories/freezer/</loc>
+    <loc>https://test.manasik-sa.com/en/categories/freezer/</loc>
     <lastmod>2022-09-24T13:50:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/en/blog/2022/09/24/b-3/</loc>
+    <loc>https://test.manasik-sa.com/en/blog/2022/09/24/b-3/</loc>
     <lastmod>2022-09-24T13:50:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/blog/2022/09/24/b-3/"
+                href="https://test.manasik-sa.com/ar/blog/2022/09/24/b-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/blog/2022/09/24/b-3/"
+                href="https://test.manasik-sa.com/en/blog/2022/09/24/b-3/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://test.manasik-sa.com/en/</loc>
     <lastmod>2022-09-24T13:50:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/"
+                href="https://test.manasik-sa.com/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://test.manasik-sa.com/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/</loc>
+    <loc>https://test.manasik-sa.com/en/blog/</loc>
     <lastmod>2022-09-24T13:50:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/blog/"
+                href="https://test.manasik-sa.com/ar/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/blog/"
+                href="https://test.manasik-sa.com/en/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://test.manasik-sa.com/en/tags/</loc>
     <lastmod>2022-09-24T13:50:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/tags/"
+                href="https://test.manasik-sa.com/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://test.manasik-sa.com/en/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/2021/08/01/b-9/</loc>
+    <loc>https://test.manasik-sa.com/en/blog/2021/08/01/b-9/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/blog/2021/08/01/b-9/"
+                href="https://test.manasik-sa.com/ar/blog/2021/08/01/b-9/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/blog/2021/08/01/b-9/"
+                href="https://test.manasik-sa.com/en/blog/2021/08/01/b-9/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/2021/08/01/b-1/</loc>
+    <loc>https://test.manasik-sa.com/en/blog/2021/08/01/b-1/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/blog/2021/08/01/b-1/"
+                href="https://test.manasik-sa.com/ar/blog/2021/08/01/b-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/blog/2021/08/01/b-1/"
+                href="https://test.manasik-sa.com/en/blog/2021/08/01/b-1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/2021/08/01/b-5/</loc>
+    <loc>https://test.manasik-sa.com/en/blog/2021/08/01/b-5/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/blog/1/01/01/b-5/"
+                href="https://test.manasik-sa.com/ar/blog/1/01/01/b-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/blog/2021/08/01/b-5/"
+                href="https://test.manasik-sa.com/en/blog/2021/08/01/b-5/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/2015/10/02/b-14/</loc>
+    <loc>https://test.manasik-sa.com/en/blog/2015/10/02/b-14/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/blog/2021/08/01/b-14/"
+                href="https://test.manasik-sa.com/ar/blog/2021/08/01/b-14/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/blog/2015/10/02/b-14/"
+                href="https://test.manasik-sa.com/en/blog/2015/10/02/b-14/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/2015/10/02/b-15/</loc>
+    <loc>https://test.manasik-sa.com/en/blog/2015/10/02/b-15/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/blog/2021/08/01/b-15/"
+                href="https://test.manasik-sa.com/ar/blog/2021/08/01/b-15/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/blog/2015/10/02/b-15/"
+                href="https://test.manasik-sa.com/en/blog/2015/10/02/b-15/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/2015/10/02/b-2/</loc>
+    <loc>https://test.manasik-sa.com/en/blog/2015/10/02/b-2/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/blog/2015/10/02/b-2/"
+                href="https://test.manasik-sa.com/ar/blog/2015/10/02/b-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/blog/2015/10/02/b-2/"
+                href="https://test.manasik-sa.com/en/blog/2015/10/02/b-2/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/2015/10/02/b-6/</loc>
+    <loc>https://test.manasik-sa.com/en/blog/2015/10/02/b-6/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/blog/2021/08/01/b-6/"
+                href="https://test.manasik-sa.com/ar/blog/2021/08/01/b-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/blog/2015/10/02/b-6/"
+                href="https://test.manasik-sa.com/en/blog/2015/10/02/b-6/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/2015/08/03/b-20/</loc>
+    <loc>https://test.manasik-sa.com/en/blog/2015/08/03/b-20/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/blog/2022/09/24/b-20/"
+                href="https://test.manasik-sa.com/ar/blog/2022/09/24/b-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/blog/2015/08/03/b-20/"
+                href="https://test.manasik-sa.com/en/blog/2015/08/03/b-20/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/2015/08/03/b-8/</loc>
+    <loc>https://test.manasik-sa.com/en/blog/2015/08/03/b-8/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/blog/2022/09/24/b-8/"
+                href="https://test.manasik-sa.com/ar/blog/2022/09/24/b-8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/blog/2015/08/03/b-8/"
+                href="https://test.manasik-sa.com/en/blog/2015/08/03/b-8/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/2015/08/03/b-16/</loc>
+    <loc>https://test.manasik-sa.com/en/blog/2015/08/03/b-16/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/blog/2022/09/24/b-16/"
+                href="https://test.manasik-sa.com/ar/blog/2022/09/24/b-16/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/blog/2015/08/03/b-16/"
+                href="https://test.manasik-sa.com/en/blog/2015/08/03/b-16/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/blog/2015/08/03/b-4/</loc>
+    <loc>https://test.manasik-sa.com/en/blog/2015/08/03/b-4/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/blog/2015/08/03/b-4/"
+                href="https://test.manasik-sa.com/ar/blog/2015/08/03/b-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/blog/2015/08/03/b-4/"
+                href="https://test.manasik-sa.com/en/blog/2015/08/03/b-4/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/portfolio/</loc>
+    <loc>https://test.manasik-sa.com/en/portfolio/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/portfolio/"
+                href="https://test.manasik-sa.com/ar/portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/portfolio/"
+                href="https://test.manasik-sa.com/en/portfolio/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/authors/</loc>
+    <loc>https://test.manasik-sa.com/en/authors/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/authors/"
+                href="https://test.manasik-sa.com/ar/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/authors/"
+                href="https://test.manasik-sa.com/en/authors/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/contact/</loc>
+    <loc>https://test.manasik-sa.com/en/contact/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:1313/ar/contact/"
+                href="https://test.manasik-sa.com/ar/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/contact/"
+                href="https://test.manasik-sa.com/en/contact/"
                 />
   </url>
 </urlset>
